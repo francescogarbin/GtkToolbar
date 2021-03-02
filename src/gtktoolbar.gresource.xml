@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/example/App">
+    <file>window.ui</file>
+  </gresource>
+  <gresource prefix="/org/example/App">
+    <file>toolbar_builder.ui</file>
+  </gresource>
+</gresources>
